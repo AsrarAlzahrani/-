@@ -1,4 +1,4 @@
-# How to use openCV
+# Face detection and Show image by openCV
 Download picture to use in face detection and show image and download haarcascade_frontalface_default.xml file
 
 References:
